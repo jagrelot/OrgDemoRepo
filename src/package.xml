@@ -233,11 +233,11 @@
         <name>FlexiPage</name>
     </types>
     <types>
-        <members>*</members>
+        <!-- <members>*</members> -->
         <name>Flow</name>
     </types>
     <types>
-        <members>*</members>
+     <!--    <members>*</members> -->
         <name>FlowDefinition</name>
     </types>
     <types>
